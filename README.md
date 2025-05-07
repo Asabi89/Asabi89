@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...gaming development
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...React
-- 📫 How to reach me ... idowuasabidavi@gmail.com
+- 📫 How to reach me ... idowuasabidavid@gmail.com
 - 😄 Pronouns: ...him
 - ⚡ Fun fact: ...
 
